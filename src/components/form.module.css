@@ -1,0 +1,40 @@
+.modernForm {
+  background-color: white;
+  border-radius: 8px;
+  padding: 20px;
+  width: 700px;
+  height: 50px;
+  margin: 0 auto;
+  margin-top: 50px;
+  box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.3);
+  display: flex;
+}
+
+.modernInput {
+  border: none;
+  width: 100%;
+  color: black;
+  padding: 5px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.modernInput:focus {
+  outline: none;
+}
+
+.modernButton {
+  background-color: blueviolet;
+  border: none;
+  color: white;
+  padding: 12px;
+  cursor: pointer;
+  border-radius: 8px;
+  font-weight: bold;
+  font-size: 18px;
+  width: 150px;
+}
+
+.modernButton:hover {
+  background-color: rgb(100, 30, 165);
+}

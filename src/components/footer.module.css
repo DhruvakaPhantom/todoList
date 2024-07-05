@@ -1,0 +1,18 @@
+.footer {
+  background-color: blueviolet;
+  position: fixed;
+  font-weight: bold;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  bottom: 0;
+  padding: 10px;
+  width: 100%;
+  font-size: 1.5em;
+  color: white;
+}
+
+.item {
+  margin-left: 200px;
+  margin-right: 200px;
+}
